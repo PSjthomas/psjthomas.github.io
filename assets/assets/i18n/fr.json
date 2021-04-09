@@ -1,0 +1,183 @@
+{
+    "button": {
+		"validate": "VALIDER",
+		"start": "Commencer",
+    "enter": "ENTRER",
+    "letsgo" : "C'EST PARTI"
+	},
+  "reference": {
+    "title": {
+      "small": "Les",
+      "big": "REFERENCE"
+    },
+    "DataText": {
+      "Line1": "Résumé des Caractéristiques du Produit TRELEGY Ellipta",
+      "Line2": "HAS. Avis de la Commission de la Transparence du 10/04/2019 relatifs à TRELEGY Ellipta",
+      "Line3": "Lipson DA et al. FULFIL Trial: Once-Daily Triple Therapy for Patients with Chronic Obstructive Pulmonary\nDisease Am J. Resp. Crit. Care. 2017 Aug 15;196(4):438-446 (Etude CTT116853 retenue lors de l'évaluation de\n l'AMM et du dossier de Transparence)",
+      "Line4": "Donohue JF_Minimal Clinically Important Differences in COPD Lung Function. Journal of\nCOPD_2005_2_111-24."
+    }
+  },
+  "BUM": {
+    "title": {
+      "small": "Bon",
+      "big": "USAGE"
+    }
+  },
+  "DOCUMENTS": {
+    "title": {
+      "small": "Les",
+      "big": "DOCUMENTS"
+    },
+    "DocumentsCategory": {
+      "Doc1": "ADDICTOLOGIE",
+      "Doc2": "IMAGERIE",
+      "Doc3": "PNEUMOLOGIE",
+      "Doc4": "CARDIOLOGIE",
+      "Doc5": "ENVIRONNEMENT",
+      "Doc6": "MEDECINE GENERALE"
+    },
+    "DocumentsFile":
+    {
+      "File1": "assets/documents/patients/1_addict_1.jpg",
+      "File2": "assets/documents/patients/1_addict_2.jpg",
+      "File3": "assets/documents/patients/2_imagerie_1.jpg",
+      "File4": "assets/documents/patients/3_pneumo_1.jpg",
+      "File5": "assets/documents/patients/3_pneumo_2.jpg",
+      "File6": "assets/documents/patients/3_pneumo_3.jpg",
+      "File7": "assets/documents/patients/3_pneumo_4.jpg",
+      "File8": "assets/documents/patients/3_pneumo_5.jpg",
+      "File9": "assets/documents/patients/3_pneumo_6.jpg",
+      "File10": "assets/documents/patients/3_pneumo_7.jpg",
+      "File11": "assets/documents/patients/3_pneumo_8.jpg",
+      "File12": "assets/documents/patients/3_pneumo_9.jpg",
+      "File13": "assets/documents/patients/3_pneumo_10.jpg",
+      "File14": "assets/documents/patients/3_pneumo_11.jpg",
+      "File15": "assets/documents/patients/3_pneumo_12.jpg",
+      "File16": "assets/documents/patients/3_pneumo_13.jpg",
+      "File17": "assets/documents/patients/3_pneumo_14.jpg",
+      "File18": "assets/documents/patients/3_pneumo_15.jpg",
+      "File19": "assets/documents/patients/3_pneumo_16.jpg",
+      "File20": "assets/documents/patients/4_cardiologie_1.jpg",
+      "File21": "assets/documents/patients/5_cardiologie_1.jpg",
+      "File22": "assets/documents/patients/6_medecin_1.jpg",
+      "File23": "assets/documents/patients/6_medecin_2.jpg"
+    },
+    "INDICATION":{ 
+      "big": "Attribuez\n",
+      "small": "ces documents\nà un patient"
+    }
+  },
+  "PATIENTS": {
+    "title": {
+      "small": "Les",
+      "big": "DOCUMENTS PATIENTS"
+    },
+    "PatientBasicInfo": {
+      "AGE": "Age",
+      "Sex": "Sexe",
+      "JOB": "Profession"
+    },
+    "BENOIST": {
+      "age_number": "45 ANS",
+      "sexe_letter": "F",
+      "job_desc": "Assistante\nde direction",
+      "comment": "Fumeuse\ndepuis\n10 ans"
+    },
+    "SAULAS":{
+      "age_number": "72 ANS",
+      "sexe_letter": "H",
+      "job_desc": "Ancien mineur\nau Congo",
+      "comment": ""
+    },
+    "GARANGER":{
+      "age_number": "65 ANS",
+      "sexe_letter": "H",
+      "job_desc": "Retraité",
+      "comment": "Fumeur depuis\nses 20 ans\n(stabilité à 2-3\ncigarettes/jour)"
+    },
+    "JULIAN":{
+      "age_number": "54 ANS",
+      "sexe_letter": "H",
+      "job_desc": "Agriculteur",
+      "comment": "Ancien fumeur\n(10 paquets/année,\nsevré depuis\n15 ans)"
+    },
+    "MARTEL":{
+      "age_number": "71 ANS",
+      "sexe_letter": "F",
+      "job_desc": "Retraitée\n(ancienne\nfonctionnaire)",
+      "comment": "Fumeuse par\nintermittence"
+    },
+    "RABIER":{
+      "age_number": "58 ANS",
+      "sexe_letter": "F",
+      "job_desc": "Jeune retraitée\n(ancienne\nmarathonienne)",
+      "comment": "Fumeuse passive"
+    }
+  },
+  "QUESTIONS" : {
+    "BENOIST" : {
+      "Choix1" : {
+        "Question" : "Je vois que vous êtes fumeuse, combien de cigarettes\nfumez-vous par jour et depuis combien de temps ?",
+        "Answer" : "Oui… Ça fait maintenant une vingtaine d’années que je fume 5-6 cigarettes par jour.\n\nJ’essaye d’arrêter mais ce n’est pas évident ! J’ai tout tenté, hypnose, sophrologie, patchs.. Je suis même allée voir un tabacologue dernièrement !"
+      },
+      "Choix2" : {
+        "Question" : "Comment vous sentez-vous au niveau respiratoire ?\nVous sentez-vous gênée de temps en temps ?",
+        "Answer" : "C’est vrai que je tousse de temps en temps. Il m’arrive même de cracher un peu parfois quand je tousse, mais ça n’est pas trop handicapant au quotidien.\n\nJ’ai commencé un traitement l’année dernière donc ça va un peu mieux en ce moment. D’ailleurs j’ai vu le Docteur Priou récemment, qui a renouvelé mon traitement."
+      }
+    },
+    "SAULAS" :{
+      "Choix1" : {
+        "Question" : "Comment vous sentez-vous en ce moment ?",
+        "Answer" : "J’avoue que j’ai connu de meilleurs jours… C'est de pire en pire depuis que j’ai arrêté de travailler !\nÇa fait quelques mois que je suis essoufflé au moindre effort, j'ai une toux sèche et une oppression au niveau de mes poumons, sans oublier mes problèmes au coeur.\n\nJe ne sais pas exactement ce qui se passe mais je suis allé voir mon cardiologue, Docteur Huard en mai 2020 pour en savoir un peu plus."
+      },
+      "Choix2" : {
+        "Question" : "Comment se passe la retraite ?",
+        "Answer" : "Doucement…\n\nÇa change de mon ancienne vie, puisque j’ai exercé quasiment toute ma vie dans des mines au Congo où j’étais en charge de l’extraction du quartz."
+      }
+    },
+    "GARANGER" :{
+      "Choix1" : {
+        "Question" : "Fumez-vous ?",
+        "Answer" : "J’avoue que j’ai connu de meilleurs jours… C'est de pire en pire depuis que j’ai arrêté de travailler !\nÇa fait quelques mois que je suis essoufflé au moindre effort, j'ai une toux sèche et une oppression au niveau de mes poumons, sans oublier mes problèmes au coeur.\n\nJe ne sais pas exactement ce qui se passe mais je suis allé voir mon cardiologue, Docteur Huard en mai 2020 pour en savoir un peu plus."
+      },
+      "Choix2" : {
+        "Question" : "Je vois que vous êtes diabétique, arrivez-vous à pratiquer une activité physique ?",
+        "Answer" : "Doucement…\n\nÇa change de mon ancienne vie, puisque j’ai exercé quasiment toute ma vie dans des mines au Congo où j’étais en charge de l’extraction du quartz."
+      }
+    },
+    "JULIAN" :{
+      "Choix1" : {
+        "Question" : "Je vois que vous êtes agriculteur, comment ça se passe au quotidien ?",
+        "Answer" : "Oui je travaille dans la Marne où j’ai une exploitation avec 80 hectares de blé et une centaine de vaches !\n\nCe n’est pas toujours facile au quotidien mais je suis passionné par mon métier.\n\nLe gros problème c’est les cultures, surtout avec les pesticides et les herbicides. À l’époque, j’utilisais même du Paraquat. J’ai réussi à arrêter de fumer parce que c’était mauvais pour ma santé, alors je n’ai pas envie d’avoir d’autres problèmes avec ces produits !"
+      },
+      "Choix2" : {
+        "Question" : "Réussissez-vous à faire un peu de sport à côté du travail ?",
+        "Answer" : "Non pas vraiment, mon métier est assez épuisant et je n’ai pas le temps ni l’envie de m’y remettre après une longue journée de travail..!\n\nEn plus vous savez, je me sens parfois essoufflé après avoir ramassé une dizaine de sacs de blé, j’ai l’impression de souffler comme mes bêtes, alors le sport non merci !"
+      }
+    },
+    "RABIER":{
+      "Choix1" : {
+        "Question" : "Vous êtes toute jeune retraitée, comment est-ce que ça se passe, arrivez-vous à vous occuper ?",
+        "Answer" : "Oui je travaille dans la Marne où j’ai une exploitation avec 80 hectares de blé et une centaine de vaches !\n\nCe n’est pas toujours facile au quotidien mais je suis passionné par mon métier.\n\nLe gros problème c’est les cultures, surtout avec les pesticides et les herbicides. À l’époque, j’utilisais même du Paraquat. J’ai réussi à arrêter de fumer parce que c’était mauvais pour ma santé, alors je n’ai pas envie d’avoir d’autres problèmes avec ces produits !"
+      },
+      "Choix2" : {
+        "Question" : "Est-ce que vous ou quelqu’un de votre entourage fume ?",
+        "Answer" : "Alors moi je n’ai jamais fumé, je n’aime pas ça !\n\nPar contre mon mari fume beaucoup et souvent à côté de moi, surtout en hiver où il ne peut pas trop aller à l’extérieur…"
+      }
+    },
+    "MARTEL" : {
+      "Choix1" : {
+        "Question" : "Comment allez-vous dernièrement ?",
+        "Answer" : "Ça dépend des jours Docteur ! Je m’étais inscrite à un club de marche dans ma ville après avoir arrêté de fumer il y a 15 ans, histoire de rebouger un peu.\n\nMais depuis 1 mois, impossible d’y aller tellement je suis fatiguée et me sens affaiblie. Du coup j’avoue avoir repris un peu la cigarette…"
+      },
+      "Choix2" : {
+        "Question" : "Avez-vous pu consulter votre pneumologue récemment ?",
+        "Answer" : "Oui, j’ai eu un rendez-vous il y a quelques mois, avec le Docteur Olivier, comme j’étais très essoufflée et que je ressens le besoin de cracher bien plus souvent que d’habitude.\n\nIl m’a fait repasser un examen respiratoire d’ailleurs, puisque le dernier datait de 6 mois avant"
+      },
+      "Choix3" : {
+        "Question" : "Je vois que vous avez plusieurs traitements, arrivez-vous à bien les prendre ?",
+        "Answer" : "Ah ça oui ! Ma fille est infirmière, elle m’aide à bien prendre mon traitement.\n\nJe suis très rigoureuse quand il s’agit de mon traitement, c’est pour ça que je ne comprends pas ces derniers mois où je suis très essoufflée.."
+      }
+    }
+  }
+}
