@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "66189eb74f0b18da8c1f5bc3c8b0af35",
+  "assets/AssetManifest.json": "5788eb912416e2b010c568de0a075ced",
 "assets/assets/background/Background%2520popinintro.png": "4b2a0121c2c585ef43cbcb97b4b7bada",
 "assets/assets/background/background_introduction.jpg": "ae5069d387ca20bc576a419bbb106a24",
 "assets/assets/background/salle_d_attente.png": "f4167781a1ae3c12f20ab3d21da13005",
@@ -60,7 +60,11 @@ const RESOURCES = {
 "assets/assets/legale/Logo_GSK.png": "b4795ffdd3e02ba901fd3aedc6f235c7",
 "assets/assets/legale/logo_trelegy.png": "243b58a9a7f49a2fdc347f4328a62da9",
 "assets/assets/text_image/logo_mystair.png": "017205dea6878b98ea7a9d431ac2b5be",
-"assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
+"assets/FontManifest.json": "20a2040b2c9c5e1c9896de9db88d53ed",
+"assets/fonts/Anodina-Bold.otf": "c0c8c60a8803c341a6c1a3234e26966f",
+"assets/fonts/Anodina-Light.otf": "ab4ff62da5b14a6d9c1c9a8a001cde02",
+"assets/fonts/Anodina-Regular.otf": "d844d8d44c10280094309177f9019d96",
+"assets/fonts/Marags%25C3%25A2-Display.otf": "ea52b277d12e1da0e16ce3d2245074a4",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/NOTICES": "be014f9dd1455697b19f9466e0a7edc0",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -70,9 +74,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "357a81dbb0c876e536436c147d4e176b",
-"/": "357a81dbb0c876e536436c147d4e176b",
-"main.dart.js": "bf69a2f602dbd06a0288a1d8822da365",
+"index.html": "95f0ec626e03a58a67c540107c53e95c",
+"/": "95f0ec626e03a58a67c540107c53e95c",
+"main.dart.js": "691cc115d8268a510b30b4d0e5ad6ecd",
 "manifest.json": "cb82621278f07277ca504a05ac88650d",
 "version.json": "8323872dcc70a4c3f790325b0445ccd7"
 };
