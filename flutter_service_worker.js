@@ -3,10 +3,16 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5788eb912416e2b010c568de0a075ced",
+  "assets/AssetManifest.json": "fecb118f373262bffa2179641c5b2955",
 "assets/assets/background/Background%2520popinintro.png": "4b2a0121c2c585ef43cbcb97b4b7bada",
 "assets/assets/background/background_introduction.jpg": "ae5069d387ca20bc576a419bbb106a24",
 "assets/assets/background/salle_d_attente.png": "f4167781a1ae3c12f20ab3d21da13005",
+"assets/assets/character/MGaranger@2x.png": "8f69c6638bc54edf91bd55bd228146c4",
+"assets/assets/character/MJulian@2x.png": "7656b67de76d4ae2e604b41c475731c3",
+"assets/assets/character/MmeBenoist@2x.png": "6ffbcda714bbe4b9f528b0e018077cbc",
+"assets/assets/character/MmeMartel@2x.png": "8e55de0669862c9c4f943abe249907ad",
+"assets/assets/character/MmeRabier@2x.png": "a15187f13dc03d073ef2a5347eea6529",
+"assets/assets/character/MSaulas@2x.png": "533b1fa14a71a8b6492ff8b170745920",
 "assets/assets/character/pannel_presentation.png": "facfddb202708c9bb5e24c5150d5312b",
 "assets/assets/character/Sticker_Benoist.png": "821b27958673353cdecaebcf6b5d594f",
 "assets/assets/character/Sticker_Garanger.png": "6ded76f8ee607f892c664098552780a0",
@@ -56,7 +62,7 @@ const RESOURCES = {
 "assets/assets/documents/patients/5_cardiologie_1.jpg": "a5bf9479cd90cf0cd27c2d6b165a5503",
 "assets/assets/documents/patients/6_medecin_1.jpg": "0bbce75ff57c38c175c9ce228e17d55d",
 "assets/assets/documents/patients/6_medecin_2.jpg": "8c1081a890c8e0a5843c9123b38b0062",
-"assets/assets/i18n/fr.json": "eeebb8983dc1f508b09ffcb4f65f1e50",
+"assets/assets/i18n/fr.json": "c4e6d163381037143cacee67eb62a5a2",
 "assets/assets/legale/Logo_GSK.png": "b4795ffdd3e02ba901fd3aedc6f235c7",
 "assets/assets/legale/logo_trelegy.png": "243b58a9a7f49a2fdc347f4328a62da9",
 "assets/assets/text_image/logo_mystair.png": "017205dea6878b98ea7a9d431ac2b5be",
@@ -74,9 +80,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "961a55856a3f97b6df96fa2b2fc1a244",
-"/": "961a55856a3f97b6df96fa2b2fc1a244",
-"main.dart.js": "9c951db03eec63d7d21c737b5f7e272c",
+"index.html": "e227e93f339cd50e32c2fd52e324e118",
+"/": "e227e93f339cd50e32c2fd52e324e118",
+"main.dart.js": "1cd8ecace8eaef77b8b38fc9c1646ecf",
 "manifest.json": "cb82621278f07277ca504a05ac88650d",
 "version.json": "8323872dcc70a4c3f790325b0445ccd7"
 };

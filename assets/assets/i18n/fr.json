@@ -17,6 +17,17 @@
       "Line4": "Donohue JF_Minimal Clinically Important Differences in COPD Lung Function. Journal of\nCOPD_2005_2_111-24."
     }
   },
+  "BEGINNING" :
+  {
+    "MDP_TUTO" : "Entrez votre mot de passe",
+    "MDP_FIELD" : "mot de passe",
+    "MDP_ERROR" : "En cas de mot de passe oublié,\nveuillez consulter votre invitation ou vous rapprochez de votre APM GSK.",
+    "DISCLAIMER" : "DISCLAIMER",
+    "DISCLAIMER_PART1" : "Les situations présentées se veulent au plus proche de la vie réelle,\nbien que les patients soient fictifs\n\n",
+    "DISCLAIMER_PART2" : "Les profils, bilans et informations médicales de cette application\nsont issus de la pratique clinique.\n",
+    "DISCLAIMER_BOTTOM" : "21/04/63047629/PM/001 - PM-FR-FVU-PPT-210003 -V1 - Mars 2021\n© 2021 Groupe GSK ou ses concédants.\nDocument réservé à l'usage exclusif des APM du Laboratoire GSK. Ne peut être ni remis, ni reproduit.",
+    "INTRO_CONTENT" : "TRELEGY Ellipta est indiqué en traitement continu de la BPCO modérée à sévère chez les adultes traités de façon non satisfaisante par :\n- L'association d'un corticostéroïde inhalé et d'un β2- agoniste de longue durée d'action (CSI/LABA) ;\nou\n- L'association d'un β2-agoniste de longue durée d'action et d'un anticholinergique de longue durée d'action (LABA/LAMA).1\nD'après la Commission de la Transparence, TRELEGY Ellipta est réservé aux patients atteints de BPCO sévère traités de façon non satisfaisante par une bithérapie LABA+CSI,\nou continuant à présenter des exacerbations sous un traitement par LABA+LAMA, et n'a pas de place dans la prise en charge de la BPCO modérée.2\nListe I. Remboursé Séc. Soc à 30% / agréé Collect. uniquement dans le traitement continu de la BPCO sévère (prise en charge subordonnée à\nune prescription initiale par un médecin pneumologue).\nPrix public : 53,79€ - Coût de traitement journalier : 1,79€ (hors honoraires de dispensation)\n\n21/04/63047629/PM/001 - PM-FR-FVU-PPT-210003 -V1 - Mars 2021\n© 2021 Groupe GSK ou ses concédants.\nDocument réservé à l'usage exclusif des APM du Laboratoire GSK. Ne peut être ni remis, ni reproduit"
+  },
   "BUM": {
     "title": {
       "small": "Bon",
