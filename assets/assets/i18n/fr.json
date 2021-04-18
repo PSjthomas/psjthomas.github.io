@@ -3,12 +3,13 @@
 		"validate": "VALIDER",
 		"start": "Commencer",
     "enter": "ENTRER",
-    "letsgo" : "C'EST PARTI"
+    "letsgo" : "C'EST PARTI",
+    "OK" : "OK"
 	},
   "reference": {
     "title": {
       "small": "Les",
-      "big": "REFERENCE"
+      "big": "REFERENCES"
     },
     "DataText": {
       "Line1": "Résumé des Caractéristiques du Produit TRELEGY Ellipta",
@@ -26,7 +27,10 @@
     "DISCLAIMER_PART1" : "Les situations présentées se veulent au plus proche de la vie réelle,\nbien que les patients soient fictifs\n\n",
     "DISCLAIMER_PART2" : "Les profils, bilans et informations médicales de cette application\nsont issus de la pratique clinique.\n",
     "DISCLAIMER_BOTTOM" : "21/04/63047629/PM/001 - PM-FR-FVU-PPT-210003 -V1 - Mars 2021\n© 2021 Groupe GSK ou ses concédants.\nDocument réservé à l'usage exclusif des APM du Laboratoire GSK. Ne peut être ni remis, ni reproduit.",
-    "INTRO_CONTENT" : "TRELEGY Ellipta est indiqué en traitement continu de la BPCO modérée à sévère chez les adultes traités de façon non satisfaisante par :\n- L'association d'un corticostéroïde inhalé et d'un β2- agoniste de longue durée d'action (CSI/LABA) ;\nou\n- L'association d'un β2-agoniste de longue durée d'action et d'un anticholinergique de longue durée d'action (LABA/LAMA).1\nD'après la Commission de la Transparence, TRELEGY Ellipta est réservé aux patients atteints de BPCO sévère traités de façon non satisfaisante par une bithérapie LABA+CSI,\nou continuant à présenter des exacerbations sous un traitement par LABA+LAMA, et n'a pas de place dans la prise en charge de la BPCO modérée.2\nListe I. Remboursé Séc. Soc à 30% / agréé Collect. uniquement dans le traitement continu de la BPCO sévère (prise en charge subordonnée à\nune prescription initiale par un médecin pneumologue).\nPrix public : 53,79€ - Coût de traitement journalier : 1,79€ (hors honoraires de dispensation)\n\n21/04/63047629/PM/001 - PM-FR-FVU-PPT-210003 -V1 - Mars 2021\n© 2021 Groupe GSK ou ses concédants.\nDocument réservé à l'usage exclusif des APM du Laboratoire GSK. Ne peut être ni remis, ni reproduit"
+    "INTRO_CONTENT" : "TRELEGY Ellipta est indiqué en traitement continu de la BPCO modérée à sévère chez les adultes traités de façon non satisfaisante par :\n- L'association d'un corticostéroïde inhalé et d'un β2- agoniste de longue durée d'action (CSI/LABA) ;\nou\n- L'association d'un β2-agoniste de longue durée d'action et d'un anticholinergique de longue durée d'action (LABA/LAMA).1\nD'après la Commission de la Transparence, TRELEGY Ellipta est réservé aux patients atteints de BPCO sévère traités de façon non satisfaisante par une bithérapie LABA+CSI,\nou continuant à présenter des exacerbations sous un traitement par LABA+LAMA, et n'a pas de place dans la prise en charge de la BPCO modérée.2\nListe I. Remboursé Séc. Soc à 30% / agréé Collect. uniquement dans le traitement continu de la BPCO sévère (prise en charge subordonnée à\nune prescription initiale par un médecin pneumologue).\nPrix public : 53,79€ - Coût de traitement journalier : 1,79€ (hors honoraires de dispensation)\n\n21/04/63047629/PM/001 - PM-FR-FVU-PPT-210003 -V1 - Mars 2021\n© 2021 Groupe GSK ou ses concédants.\nDocument réservé à l'usage exclusif des APM du Laboratoire GSK. Ne peut être ni remis, ni reproduit",
+    "HELLO_DOCTOR_CONTENT" : "Bonjour Docteurs, et bienvenue dans Myst'air !\n\nVotre objectif aujourd’hui est de retrouver, parmi les six profils qui vous seront\nprésentés, le ou les patients qui nécessitent une réévaluation de leurs traitements\net qui sont éligibles à TRELEGY Ellipta.\n\nEn parcourant l’application, vous aurez la possibilité d’interroger les patients\nafin d’en savoir plus sur leur état de santé. Certaines de leurs réponses sont associées\nà des documents que vous trouverez dans l'onglet \"Dossiers médicaux des patients\".\n\nAfin d’avancer dans vos recherches, vous devrez donc consulter ces documents afin de\nles recouper avec les informations trouvées en interrogeant les patients.\n\nAlors, saurez-vous retrouver les patients éligibles à TRELEGY Ellipta ?\n\nA vous de jouer !",
+    "RAPPEL_CONTENT": "TRELEGY Ellipta est indiqué en traitement continu de la BPCO modérée à sévère chez les adultes traités de façon non satisfaisante par :\n- L'association d'un corticostéroïde inhalé et d'un β2- agoniste de longue durée d'action (CSI/LABA) ;\nou\n- L'association d'un β2-agoniste de longue durée d'action et d'un anticholinergique de longue durée\nd'action (LABA/LAMA).¹\nD'après la Commission de la Transparence, TRELEGY Ellipta est réservé aux patients atteints de BPCO\nsévère traités de façon non satisfaisante par une bithérapie LABA+CSI, ou continuant à présenter des\nexacerbations sous un traitement par LABA+LAMA, et n'a pas de place dans la prise en charge de la BPCO modérée.²\n\nAvant de prescrire, consultez la place dans la stratégie thérapeutique sur www.has-sante.fr\nListe I. Remboursé Séc. Soc à 30% / agréé Collect. uniquement dans le traitement continu de la BPCO sévère\n(prise en charge subordonnée à une prescription initiale par un médecin pneumologue).\nPrix public : 53,79€ - Coût de traitement journalier : 1,79€ (hors honoraires de dispensation)",
+    "RAPPEL_TITLE" : "POUR RAPPEL"
   },
   "BUM": {
     "title": {
@@ -81,7 +85,7 @@
   "PATIENTS": {
     "title": {
       "small": "Les",
-      "big": "DOCUMENTS PATIENTS"
+      "big": "DOSSIERS PATIENTS"
     },
     "PatientBasicInfo": {
       "AGE": "Age",
