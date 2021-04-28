@@ -130,69 +130,136 @@
     }
   },
   "QUESTIONS" : {
-    "BENOIST" : {
-      "Choix1" : {
-        "Question" : "Je vois que vous êtes fumeuse, combien de cigarettes\nfumez-vous par jour et depuis combien de temps ?",
-        "Answer" : "Oui… Ça fait maintenant une vingtaine d’années que je fume 5-6 cigarettes par jour.\n\nJ’essaye d’arrêter mais ce n’est pas évident ! J’ai tout tenté, hypnose, sophrologie, patchs.. Je suis même allée voir un tabacologue dernièrement !"
+    "PART1" : {
+      "BENOIST" : {
+        "Choix1" : {
+          "Question" : "Je vois que vous êtes fumeuse, combien de cigarettes\nfumez-vous par jour et depuis combien de temps ?",
+          "Answer" : "Oui… Ça fait maintenant une vingtaine d’années que je fume 5-6 cigarettes par jour.\n\nJ’essaye d’arrêter mais ce n’est pas évident ! J’ai tout tenté, hypnose, sophrologie, patchs.. Je suis même allée voir un tabacologue dernièrement !"
+        },
+        "Choix2" : {
+          "Question" : "Comment vous sentez-vous au niveau respiratoire ?\nVous sentez-vous gênée de temps en temps ?",
+          "Answer" : "C’est vrai que je tousse de temps en temps. Il m’arrive même de cracher un peu parfois quand je tousse, mais ça n’est pas trop handicapant au quotidien.\n\nJ’ai commencé un traitement l’année dernière donc ça va un peu mieux en ce moment. D’ailleurs j’ai vu le Docteur Priou récemment, qui a renouvelé mon traitement."
+        }
       },
-      "Choix2" : {
-        "Question" : "Comment vous sentez-vous au niveau respiratoire ?\nVous sentez-vous gênée de temps en temps ?",
-        "Answer" : "C’est vrai que je tousse de temps en temps. Il m’arrive même de cracher un peu parfois quand je tousse, mais ça n’est pas trop handicapant au quotidien.\n\nJ’ai commencé un traitement l’année dernière donc ça va un peu mieux en ce moment. D’ailleurs j’ai vu le Docteur Priou récemment, qui a renouvelé mon traitement."
+      "SAULAS" :{
+        "Choix1" : {
+          "Question" : "Comment vous sentez-vous en ce moment ?",
+          "Answer" : "J’avoue que j’ai connu de meilleurs jours… C'est de pire en pire depuis que j’ai arrêté de travailler !\nÇa fait quelques mois que je suis essoufflé au moindre effort, j'ai une toux sèche et une oppression au niveau de mes poumons, sans oublier mes problèmes au coeur.\n\nJe ne sais pas exactement ce qui se passe mais je suis allé voir mon cardiologue, Docteur Huard en mai 2020 pour en savoir un peu plus."
+        },
+        "Choix2" : {
+          "Question" : "Comment se passe la retraite ?",
+          "Answer" : "Doucement…\n\nÇa change de mon ancienne vie, puisque j’ai exercé quasiment toute ma vie dans des mines au Congo où j’étais en charge de l’extraction du quartz."
+        }
+      },
+      "GARANGER" :{
+        "Choix1" : {
+          "Question" : "Fumez-vous ?",
+          "Answer" : "J’avoue que j’ai connu de meilleurs jours… C'est de pire en pire depuis que j’ai arrêté de travailler !\nÇa fait quelques mois que je suis essoufflé au moindre effort, j'ai une toux sèche et une oppression au niveau de mes poumons, sans oublier mes problèmes au coeur.\n\nJe ne sais pas exactement ce qui se passe mais je suis allé voir mon cardiologue, Docteur Huard en mai 2020 pour en savoir un peu plus."
+        },
+        "Choix2" : {
+          "Question" : "Je vois que vous êtes diabétique, arrivez-vous à pratiquer une activité physique ?",
+          "Answer" : "Doucement…\n\nÇa change de mon ancienne vie, puisque j’ai exercé quasiment toute ma vie dans des mines au Congo où j’étais en charge de l’extraction du quartz."
+        }
+      },
+      "JULIAN" :{
+        "Choix1" : {
+          "Question" : "Je vois que vous êtes agriculteur, comment ça se passe au quotidien ?",
+          "Answer" : "Oui je travaille dans la Marne où j’ai une exploitation avec 80 hectares de blé et une centaine de vaches !\n\nCe n’est pas toujours facile au quotidien mais je suis passionné par mon métier.\n\nLe gros problème c’est les cultures, surtout avec les pesticides et les herbicides. À l’époque, j’utilisais même du Paraquat. J’ai réussi à arrêter de fumer parce que c’était mauvais pour ma santé, alors je n’ai pas envie d’avoir d’autres problèmes avec ces produits !"
+        },
+        "Choix2" : {
+          "Question" : "Réussissez-vous à faire un peu de sport à côté du travail ?",
+          "Answer" : "Non pas vraiment, mon métier est assez épuisant et je n’ai pas le temps ni l’envie de m’y remettre après une longue journée de travail..!\n\nEn plus vous savez, je me sens parfois essoufflé après avoir ramassé une dizaine de sacs de blé, j’ai l’impression de souffler comme mes bêtes, alors le sport non merci !"
+        }
+      },
+      "RABIER":{
+        "Choix1" : {
+          "Question" : "Vous êtes toute jeune retraitée, comment est-ce que ça se passe, arrivez-vous à vous occuper ?",
+          "Answer" : "Oui je travaille dans la Marne où j’ai une exploitation avec 80 hectares de blé et une centaine de vaches !\n\nCe n’est pas toujours facile au quotidien mais je suis passionné par mon métier.\n\nLe gros problème c’est les cultures, surtout avec les pesticides et les herbicides. À l’époque, j’utilisais même du Paraquat. J’ai réussi à arrêter de fumer parce que c’était mauvais pour ma santé, alors je n’ai pas envie d’avoir d’autres problèmes avec ces produits !"
+        },
+        "Choix2" : {
+          "Question" : "Est-ce que vous ou quelqu’un de votre entourage fume ?",
+          "Answer" : "Alors moi je n’ai jamais fumé, je n’aime pas ça !\n\nPar contre mon mari fume beaucoup et souvent à côté de moi, surtout en hiver où il ne peut pas trop aller à l’extérieur…"
+        }
+      },
+      "MARTEL" : {
+        "Choix1" : {
+          "Question" : "Comment allez-vous dernièrement ?",
+          "Answer" : "Ça dépend des jours Docteur ! Je m’étais inscrite à un club de marche dans ma ville après avoir arrêté de fumer il y a 15 ans, histoire de rebouger un peu.\n\nMais depuis 1 mois, impossible d’y aller tellement je suis fatiguée et me sens affaiblie. Du coup j’avoue avoir repris un peu la cigarette…"
+        },
+        "Choix2" : {
+          "Question" : "Avez-vous pu consulter votre pneumologue récemment ?",
+          "Answer" : "Oui, j’ai eu un rendez-vous il y a quelques mois, avec le Docteur Olivier, comme j’étais très essoufflée et que je ressens le besoin de cracher bien plus souvent que d’habitude.\n\nIl m’a fait repasser un examen respiratoire d’ailleurs, puisque le dernier datait de 6 mois avant"
+        },
+        "Choix3" : {
+          "Question" : "Je vois que vous avez plusieurs traitements, arrivez-vous à bien les prendre ?",
+          "Answer" : "Ah ça oui ! Ma fille est infirmière, elle m’aide à bien prendre mon traitement.\n\nJe suis très rigoureuse quand il s’agit de mon traitement, c’est pour ça que je ne comprends pas ces derniers mois où je suis très essoufflée.."
+        }
       }
     },
-    "SAULAS" :{
-      "Choix1" : {
-        "Question" : "Comment vous sentez-vous en ce moment ?",
-        "Answer" : "J’avoue que j’ai connu de meilleurs jours… C'est de pire en pire depuis que j’ai arrêté de travailler !\nÇa fait quelques mois que je suis essoufflé au moindre effort, j'ai une toux sèche et une oppression au niveau de mes poumons, sans oublier mes problèmes au coeur.\n\nJe ne sais pas exactement ce qui se passe mais je suis allé voir mon cardiologue, Docteur Huard en mai 2020 pour en savoir un peu plus."
+    "PART2":
+    {
+      "GARANGER" : {
+        "Choix1" : {
+          "Question" : "Prenez-vous un traitement en ce moment pour vos problèmes respiratoires ?",
+          "Answer" : "J’ai un traitement oui, le même depuis 5 ans d’ailleurs. Je le supporte bien et le prends de manière régulière.\n\nEn plus de ça je prends des médicaments pour mon diabète mais en tout cas, pour mes poumons, n’hésitez pas à regarder les médicaments que m’a donné le Docteur Beaulieu !"
+        },
+        "Choix2" : {
+          "Question" : "Vous dites que vous êtes essoufflé au moindre effort, avez-vous des moyens de vous faciliter la vie ?",
+          "Answer" : "Avec ma femme, on a réaménagé le bureau au rez-de-chaussée pour y mettre notre chambre, ça devenait trop compliqué de monter l’escalier (j'avais des toux répétitives et je m'essoufflais beaucoup)…\n\nD’ailleurs ça me fait penser que mon pneumologue, Docteur Beaulieu m’a fait passer un questionnaire en juin à ce propos"
+        }
       },
-      "Choix2" : {
-        "Question" : "Comment se passe la retraite ?",
-        "Answer" : "Doucement…\n\nÇa change de mon ancienne vie, puisque j’ai exercé quasiment toute ma vie dans des mines au Congo où j’étais en charge de l’extraction du quartz."
+      "JULIAN" :{
+        "Choix1" : {
+          "Question" : "Au niveau respiratoire, avez-vous des signes ou des difficultés particulières ?",
+          "Answer" : "Pas spécialement, c’est vrai que je tousse un peu parfois en journée et qu’il m’arrive d’être essoufflé quand je porte beaucoup de sacs, mais de manière générale je me sens bien grâce à mon traitement !"
+        },
+        "Choix2" : {
+          "Question" : "Vous me parliez des aérosols, avez-vous déjà consulté un pneumologue ?",
+          "Answer" : "Oui ! Je suis allé chez le Docteur Chatel, un petit jeune très sympa d’ailleurs."
+        }
+      },
+      "RABIER":{
+        "Choix1" : {
+          "Question" : "Arrivez-vous à faire encore un peu de sport ?",
+          "Answer" : "Ah le sport…\nJe suis une ancienne marathonienne, j’ai même couru ceux de Boston et de Paris !\n\nPourtant j’ai l’impression que c’était dans une autre vie, maintenant je ne peux plus courir sans avoir des difficultés à respirer…"
+        },
+        "Choix2" : {
+          "Question" : "Vous dites que vous risquiez d’avoir des problèmes pulmonaires avec votre ancien métier, avez-vous pu consulter un spécialiste ?",
+          "Answer" : "Oui, j’essaye de faire attention à ça !\n\nJe vais assez régulièrement chez mon pneumologue, le Docteur Richard pour contrôler l’état de mes poumons.\nIl a tout résumé dans un document dernièrement !"
+        }
+      },
+      "SAULAS" :{
+        "Choix1" : {
+          "Question" : "Vous dites que vous n’êtes pas très en forme, arrivez-vous à faire attention à votre santé en général ?",
+          "Answer" : "J’essaye de faire au mieux, je fais attention à mon alimentation et je ne bois plus d’alcool depuis que j’ai décidé de faire une cure de désintoxication.\n\nPas une goutte d’alcool depuis 2011, vous pouvez regarder mon bilan d’alcoolémie !"
+        },
+        "Choix2" : {
+          "Question" : "Et au niveau respiratoire comment ça se passe ?",
+          "Answer" : "Parfois j’ai l’impression d’avoir mon torse comprimé dans un étau, et ça me déclenche des quintes de toux.\nVous savez, j’aimerais bien pouvoir faire plus de choses, voyager par exemple…\nMon traitement est assez contraignant, et mon pneumologue, le Docteur Paré, m’a prévenu que je devrai bientôt avoir une bonbonne d’oxygène en plus !"
+        }
       }
     },
-    "GARANGER" :{
-      "Choix1" : {
-        "Question" : "Fumez-vous ?",
-        "Answer" : "J’avoue que j’ai connu de meilleurs jours… C'est de pire en pire depuis que j’ai arrêté de travailler !\nÇa fait quelques mois que je suis essoufflé au moindre effort, j'ai une toux sèche et une oppression au niveau de mes poumons, sans oublier mes problèmes au coeur.\n\nJe ne sais pas exactement ce qui se passe mais je suis allé voir mon cardiologue, Docteur Huard en mai 2020 pour en savoir un peu plus."
+    "PART3": {
+      "JULIAN" :{
+        "Choix1" : {
+          "Question" : "Justement, de quand date votre dernière visite chez le Docteur Chatel ?",
+          "Answer" : "Je suis allé le voir il n'y a pas si longtemps, en novembre 2020, j’ai fait un examen et je suis content, car le résultat n’a presque pas bougé par rapport à la dernière fois !"
+        },
+        "Choix2" : {
+          "Question" : "Quel(s) traitement(s) prenez-vous actuellement ?",
+          "Answer" : "Ah ça, j’en ai quelques uns à prendre ! J’ai quelque chose pour mes poumons, et des comprimés pour mon coeur, puisque j’ai fait un infarctus en 2008.\n\nIl faut demander au Docteur Huard pour savoir tout ce que je prends."
+        }
       },
-      "Choix2" : {
-        "Question" : "Je vois que vous êtes diabétique, arrivez-vous à pratiquer une activité physique ?",
-        "Answer" : "Doucement…\n\nÇa change de mon ancienne vie, puisque j’ai exercé quasiment toute ma vie dans des mines au Congo où j’étais en charge de l’extraction du quartz."
-      }
-    },
-    "JULIAN" :{
-      "Choix1" : {
-        "Question" : "Je vois que vous êtes agriculteur, comment ça se passe au quotidien ?",
-        "Answer" : "Oui je travaille dans la Marne où j’ai une exploitation avec 80 hectares de blé et une centaine de vaches !\n\nCe n’est pas toujours facile au quotidien mais je suis passionné par mon métier.\n\nLe gros problème c’est les cultures, surtout avec les pesticides et les herbicides. À l’époque, j’utilisais même du Paraquat. J’ai réussi à arrêter de fumer parce que c’était mauvais pour ma santé, alors je n’ai pas envie d’avoir d’autres problèmes avec ces produits !"
-      },
-      "Choix2" : {
-        "Question" : "Réussissez-vous à faire un peu de sport à côté du travail ?",
-        "Answer" : "Non pas vraiment, mon métier est assez épuisant et je n’ai pas le temps ni l’envie de m’y remettre après une longue journée de travail..!\n\nEn plus vous savez, je me sens parfois essoufflé après avoir ramassé une dizaine de sacs de blé, j’ai l’impression de souffler comme mes bêtes, alors le sport non merci !"
-      }
-    },
-    "RABIER":{
-      "Choix1" : {
-        "Question" : "Vous êtes toute jeune retraitée, comment est-ce que ça se passe, arrivez-vous à vous occuper ?",
-        "Answer" : "Oui je travaille dans la Marne où j’ai une exploitation avec 80 hectares de blé et une centaine de vaches !\n\nCe n’est pas toujours facile au quotidien mais je suis passionné par mon métier.\n\nLe gros problème c’est les cultures, surtout avec les pesticides et les herbicides. À l’époque, j’utilisais même du Paraquat. J’ai réussi à arrêter de fumer parce que c’était mauvais pour ma santé, alors je n’ai pas envie d’avoir d’autres problèmes avec ces produits !"
-      },
-      "Choix2" : {
-        "Question" : "Est-ce que vous ou quelqu’un de votre entourage fume ?",
-        "Answer" : "Alors moi je n’ai jamais fumé, je n’aime pas ça !\n\nPar contre mon mari fume beaucoup et souvent à côté de moi, surtout en hiver où il ne peut pas trop aller à l’extérieur…"
-      }
-    },
-    "MARTEL" : {
-      "Choix1" : {
-        "Question" : "Comment allez-vous dernièrement ?",
-        "Answer" : "Ça dépend des jours Docteur ! Je m’étais inscrite à un club de marche dans ma ville après avoir arrêté de fumer il y a 15 ans, histoire de rebouger un peu.\n\nMais depuis 1 mois, impossible d’y aller tellement je suis fatiguée et me sens affaiblie. Du coup j’avoue avoir repris un peu la cigarette…"
-      },
-      "Choix2" : {
-        "Question" : "Avez-vous pu consulter votre pneumologue récemment ?",
-        "Answer" : "Oui, j’ai eu un rendez-vous il y a quelques mois, avec le Docteur Olivier, comme j’étais très essoufflée et que je ressens le besoin de cracher bien plus souvent que d’habitude.\n\nIl m’a fait repasser un examen respiratoire d’ailleurs, puisque le dernier datait de 6 mois avant"
-      },
-      "Choix3" : {
-        "Question" : "Je vois que vous avez plusieurs traitements, arrivez-vous à bien les prendre ?",
-        "Answer" : "Ah ça oui ! Ma fille est infirmière, elle m’aide à bien prendre mon traitement.\n\nJe suis très rigoureuse quand il s’agit de mon traitement, c’est pour ça que je ne comprends pas ces derniers mois où je suis très essoufflée.."
+      "RABIER":{
+        "Choix1" : {
+          "Question" : "Tolérez-vous bien votre traitement ?",
+          "Answer" : "Je le tolère bien et fais de mon mieux pour bien le prendre.\nMais j’avoue que ça n’est pas évident au quotidien d'avoir plusieurs médicaments à prendre plusieurs fois par jour."
+        },
+        "Choix2" : {
+          "Question" : "Comprenez-vous comment il fonctionne ?",
+          "Answer" : "Je sais juste que j’ai plusieurs molécules que je dois prendre 2 fois par jour, parfois j’oublie de les prendre et les symptômes reviennent.\n\nIl m’arrive de confondre les boites, et je ne sais pas toujours quel inhalateur j’ai pris ! "
+        }
       }
     }
-  }
+ }
 }
